@@ -20,3 +20,5 @@ and reported its status as Ready.
 
 The simulated environment did not provide camera access. Camera and
 microphone functionality are not required for `team_greeting_app`.
+
+<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/a943a4e1-405f-4888-a192-99db0615b56f" />
