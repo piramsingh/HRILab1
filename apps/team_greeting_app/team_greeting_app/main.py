@@ -13,10 +13,10 @@ from reachy_mini.utils import create_head_pose
 # Named motion and timing parameters that need to be varied across 3 trials
 
 # Duration of the main movements (s)
-MOTION_DURATION_SECONDS = 2.0
+MOTION_DURATION_SECONDS = 1.0
 
 # Size of the up-and-down head movement (degrees).
-NOD_ANGLE_DEGREES = 12.0
+NOD_ANGLE_DEGREES = 8.0
 
 # Duration of each part of the head nod(s).
 NOD_DURATION_SECONDS = 0.5

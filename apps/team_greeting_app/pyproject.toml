@@ -6,11 +6,12 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "team_greeting_app"
 version = "0.1.0"
-description = "Add your description here"
+description = "A three-stage expressive greeting application for Reachy Mini"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "reachy-mini"
+    "reachy-mini",
+    "numpy",
 ]
 keywords = ["reachy-mini-app"]
 

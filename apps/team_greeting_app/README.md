@@ -1,3 +1,16 @@
+---
+title: Team Greeting App
+emoji: 👋
+colorFrom: blue
+colorTo: purple
+sdk: static
+pinned: false
+tags:
+  - reachy_mini 
+  - reachy_mini_python_app
+---
+
+## Running the Application in MuJoCo
 ## Running the Application in MuJoCo
 
 The application requires Python 3.10-3.12 and an activated virtual
