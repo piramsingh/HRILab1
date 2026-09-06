@@ -16,10 +16,10 @@ from reachy_mini.utils import create_head_pose
 MOTION_DURATION_SECONDS = 1.0
 
 # Size of the up-and-down head movement (degrees).
-NOD_ANGLE_DEGREES = 8.0
+NOD_ANGLE_DEGREES = 15
 
 # Duration of each part of the head nod(s).
-NOD_DURATION_SECONDS = 0.5
+NOD_DURATION_SECONDS = 0.75
 
 # Pause between movements(s).
 PAUSE_DURATION_SECONDS = 0.3
