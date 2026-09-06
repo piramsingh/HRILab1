@@ -147,9 +147,9 @@ class TeamGreetingApp(ReachyMiniApp):
             print_stage("STOP REQUESTED: Control-C received")
 
         finally:
-            # -------------------------------------------------
+            # ---
             # Stage 4: Always return to neutral
-            # -------------------------------------------------
+            # ---
 
             print_stage("STAGE 4: Returning to neutral")
 
