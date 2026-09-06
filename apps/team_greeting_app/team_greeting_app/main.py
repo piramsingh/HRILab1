@@ -3,7 +3,7 @@ from reachy_mini.utils import create_head_pose
 
 import numpy as np
 
-#Without turning of the connection and the media back end, the app wouldn't work!
+#Without turning off the connection and the media back end, the app wouldn't work!
 with ReachyMini(
     connection_mode="localhost_only",
     media_backend="no_media"
